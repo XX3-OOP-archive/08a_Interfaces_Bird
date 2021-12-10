@@ -9,7 +9,7 @@ public class Bird implements Flyable,IFeathers{
 
     @Override
     public String hasFeathers() {
-        return "I have feathers!";
+        return "I'm a bird, I have feathers!";
     }
 
 
